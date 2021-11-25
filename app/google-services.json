@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616690635726",
+    "project_id": "batchit-1fc22",
+    "storage_bucket": "batchit-1fc22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616690635726:android:3ad2bb4a16a8d46cbf919f",
+        "android_client_info": {
+          "package_name": "com.rutvik.batchit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616690635726-i2pa0qach43du5sbjur6p2s34ug0o3d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIyeI4wSurGw39-OT5OTP-sRW0brpZhKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616690635726-i2pa0qach43du5sbjur6p2s34ug0o3d7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
